@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: EnemyCounter
+## Notes: Affiche le nombre d'ennemis en vie (Azeroth Survivors)
+## SavedVariables: EnemyCounterDB
+EnemyCounter.lua
